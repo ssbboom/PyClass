@@ -1,2 +1,2 @@
-# PyClass
-examples for PyClass
+these are examples from the py class
+
